@@ -6,4 +6,4 @@ This repo will provides our implementation in [One2ManyNeuralStyleTransfer.ipynb
 
 Here is some example results:
 
-![Alt text](images/Sample_results (1).png
+![Alt text](images/Sample_Results (1).png
