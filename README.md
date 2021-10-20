@@ -1,6 +1,6 @@
 ## Deep Correlation Multimodal Style Transfer
 
-An implementation of the [Deep Correlation Multimodal Style Transfer (DerCorMST)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9570351&fbclid=IwAR3BG6HEA3lReyvBvnLOeJBBxhke-Zu6jx0zDrF4GOcjJ3TVGrF5vzb9-9o).
+An implementation of the [Deep Correlation Multimodal Style Transfer (DerCorMST)](https://ieeexplore.ieee.org/document/9570351).
 Deep Correlation Multimodal Style Transfer (DeCorMST) is a neural style transfer network that produces multiple generated outputs from a single pair of content and style images.
 
 This repo will provides our implementation in [One2ManyNeuralStyleTransfer.ipynb](One2Many%20NeuralStyleTransfer.ipynb)
@@ -55,6 +55,26 @@ References
 2019
 
 ##Citation
+
 Please cite our paper for any purpose of usage.
+```
+@ARTICLE{9570351,
+
+  author={Tuyen, Nguyen Quang and Nguyen, Son Truong and Choi, Tae Jong and Dinh, Vinh Quang},
+
+  journal={IEEE Access}, 
+
+  title={Deep Correlation Multimodal Neural Style Transfer}, 
+
+  year={2021},
+
+  volume={},
+
+  number={},
+
+  pages={1-1},
+
+  doi={10.1109/ACCESS.2021.3120104}}
+```
 
 
