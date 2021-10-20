@@ -50,5 +50,11 @@ The code is using MATLAB.
 ```
 3. retreive evaluation results from `./BSDS500/ucm2/SampleTests/Universal` folder.
 
+References
+[1] Yeh, Mao-Chuang and Tang, Shuai and Bhattad, Anand and Zou, Chuhang and Forsyth, David. Improving Style Transfer with Calibrated Metrics
+2019
+
+##Citation
+Please cite our paper for any purpose of usage.
 
 
